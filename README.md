@@ -21,6 +21,7 @@ The primary challenge that I ran into was my reading comprehension as I had spen
 ## Results
 
 #### Theater Outcomes by Launch Date
+/resources/Theater Outcomes by Launch Date.png
 
 Figure 1 shows a comparison between the success of a kickstarter to the launch date. The primary takeaway from this visualization is that there are noticably more successful kickstarters between the months of May and July, despite there being no significant raise in failures in teh same time period. This would indicate that the success chance of Kickstarters during this period are higher as well.
 
