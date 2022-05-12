@@ -21,13 +21,13 @@ The primary challenge that I ran into was my reading comprehension as I had spen
 ## Results
 
 #### Theater Outcomes by Launch Date
-![Theater Outcomes Based on Launch Date](/kickstarter_challenge/resources/Theater_Outcomes_Based_on_Launch_Date.png)
+![Theater Outcomes Based on Launch Date](/resources/chart1.png)
 
 Figure 1 shows a comparison between the success of a kickstarter to the launch date. The primary takeaway from this visualization is that there are noticably more successful kickstarters between the months of May and July, despite there being no significant raise in failures in teh same time period. This would indicate that the success chance of Kickstarters during this period are higher as well.
 
 
 #### Outcomes based on Goals
-![Outcomes Based on Goals](kickstarter_challenge/resources/Outcomes_Based_on_Goals.png)
+![Outcomes Based on Goals](/resources/chart2.png)
 
 Here we see that there is a negative trend with regards to the increase in funding goals to success chance, with the exception of the 35000 to 45000 dollar range. This intuitively makes sense as it is easier to complete a funding goal that is smaller. But, starting a kickstarter with a low goal just to increase the chances of success leaves you with less resources to complete the project you have promised. 
 
